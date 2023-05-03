@@ -1,14 +1,15 @@
-﻿Trương Hoàng Long
+﻿Huynh Van Vong
+
 <h2>Version 3 changes</h2>
 
-- Added Material UI – Styled api (v5)
-- Added Material UI updated components from MUI@version 5
-- Added React Apex Chart
-- Updated JWT authentication
-- Updated Charts
-- Removed CSS Utilities (replaced by MUI)
-- Removed SASS Integrigration (replaced by Styled API)
-- Removed Victory chart (Replaced by React Apex Chart)
+-   Added Material UI – Styled api (v5)
+-   Added Material UI updated components from MUI@version 5
+-   Added React Apex Chart
+-   Updated JWT authentication
+-   Updated Charts
+-   Removed CSS Utilities (replaced by MUI)
+-   Removed SASS Integrigration (replaced by Styled API)
+-   Removed Victory chart (Replaced by React Apex Chart)
 
 <h2 id="availablescripts">Getting started</h2>
 
@@ -29,4 +30,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <p>The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!</p>
-
